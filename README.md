@@ -68,7 +68,7 @@ The results of "Part 3" above are saved as:
 -The results of that analysis can be found in the outputs folder: 
   -['output/Google_Sheets_county_counts.csv.zip'](output/Google_Sheets_county_counts.csv.zip)
   -['output/Google_Sheets_state_counts.csv'](output/Google_Sheets_state_counts.csv)
-  -['output/Google_Sheets_county_counts.csv'](output/Google_Sheets_county_counts.csv)
+  -['output/Google_Sheets_rural_sub_urban22.csv'](output/Google_Sheets_rural_sub_urban22.csv)
 
 ## Re-using the analysis
 
