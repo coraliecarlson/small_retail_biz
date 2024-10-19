@@ -11,7 +11,7 @@ This analysis uses two sources of data:
   - 'cbp19.co.csv.zip': County Business Patterns in 2019
   - 'cbp18.co.csv.zip': County Business Patterns in 2018
 - 2023 Rural-Urban Continuum Code from the Economic Research Service of the U.S. Department of Agriculture
-    - 'County_population.csv': County populations and 2023 Rural-Urban Continuum Code 
+    - 'County_population.csv': County populations and 2023 Rural-Urban Continuum Code
 
 ## Source
 
@@ -61,9 +61,14 @@ The results of "Part 3" above are saved as:
   [`output/state_counts19.csv`](output/state_counts19.csv).  
   [`output/state_counts18.csv`](output/state_counts18.csv).
 
+  
+## Google Sheet Analysis
+
+-The outputs were imported into [Google Sheets](https://docs.google.com/spreadsheets/d/1YxHu60qwivQvLwmKJlBXo6i-vKKmBbSIG96tPz15660/edit?usp=sharing) for comparison and to determine percent change by year and by five years. 
+
 ## Re-using the analysis
 
-You are welcome to use this analysis
+You are welcome to use this analysis.
 
 ## About me
 
