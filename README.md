@@ -4,12 +4,12 @@
 
 This analysis uses two sources of data: 
 
-- County Business Pattern data from the U.S. Census Bureau for five years, from 2022 through 2018. 
-  - 'cbp22.co.csv': County Business Patterns in 2022
-  - 'cbp21.co.csv': County Business Patterns in 2021
-  - 'cbp20.co.csv': County Business Patterns in 2020
-  - 'cbp19.co.csv': County Business Patterns in 2019
-  - 'cbp18.co.csv': County Business Patterns in 2018
+- County Business Pattern data from the U.S. Census Bureau for five years, from 2022 through 2018. **Note these files are compressed to be hosted on GitHub.**
+  - 'cbp22.co.csv.zip': County Business Patterns in 2022
+  - 'cbp21.co.csv.zip': County Business Patterns in 2021
+  - 'cbp20.co.csv.zip': County Business Patterns in 2020
+  - 'cbp19.co.csv.zip': County Business Patterns in 2019
+  - 'cbp18.co.csv.zip': County Business Patterns in 2018
 - 2023 Rural-Urban Continuum Code from the Economic Research Service of the U.S. Department of Agriculture
     - 'County_population.csv': County populations and 2023 Rural-Urban Continuum Code 
 
