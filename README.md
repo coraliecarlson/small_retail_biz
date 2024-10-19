@@ -65,6 +65,10 @@ The results of "Part 3" above are saved as:
 ## Google Sheet Analysis
 
 -The outputs were imported into [Google Sheets](https://docs.google.com/spreadsheets/d/1YxHu60qwivQvLwmKJlBXo6i-vKKmBbSIG96tPz15660/edit?usp=sharing) for comparison and to determine percent change by year and by five years. 
+-The results of that analysis can be found in the outputs folder: 
+  -'Google_Sheets_county_counts.csv.zip'
+  -'Google_Sheets_state_counts.csv'
+  -'Google_Sheets_county_counts.csv'
 
 ## Re-using the analysis
 
