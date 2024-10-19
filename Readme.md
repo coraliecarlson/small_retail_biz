@@ -15,7 +15,7 @@ This analysis uses two sources of data:
 
 ## Source
 
-  The data was downloaded from the [Census County Business Patterns] (https://www.census.gov/programs-surveys/cbp.html) and [USDA Rural-Urban Continuum Code](https://www.ers.usda.gov/data-products/rural-urban-continuum-codes/documentation/) respectively. 
+  The data was downloaded from the [Census County Business Patterns](https://www.census.gov/programs-surveys/cbp.html) and [USDA Rural-Urban Continuum Code](https://www.ers.usda.gov/data-products/rural-urban-continuum-codes/documentation/) respectively. 
 
 ## Methodology 
 
