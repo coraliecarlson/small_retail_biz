@@ -28,7 +28,7 @@ This analysis uses two sources of data:
 
 ## Methodology 
 
-The notebook [small_retail_biz_counties.ipynb] (notebooks/small_retail_biz_counties.ipynb) performs the following analysis:
+The notebook [small_retail_biz_counties.ipynb](notebooks/small_retail_biz_counties.ipynb) performs the following analysis:
 
 #### Part 1: Clean the business data
 
