@@ -1,9 +1,9 @@
 # Analysis of geographical changes of small retail businesses in the U.S. 
 
 The analysis of Census Bureau data shows the changes in the number of small retail businesses, often called mom-and-pop shops, annually from 2018 to 2022. It also breaks down changes in the number of small retail businesses by three geographical factors:
-    - by county 
-    - by population of county (urban, suburban, rural)
-    - by state 
+- by county 
+- by population of county (urban, suburban, rural)
+- by state 
 
 You can see a story resulting from the population of county here: [Mom-and-Pop Retailers Thrive in Rural Areas While Folding Elsewhere](https://coveringcompanies.journalism.cuny.edu/2024/12/06/mom-pop-retailers-thrive-in-rural-areas-while-folding-elsewhere/)
 
